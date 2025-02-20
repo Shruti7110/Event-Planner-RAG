@@ -33,28 +33,6 @@ Create a .env file and add your OpenAI API key:
 
 OPENAI_API_KEY=your_api_key_here
 
-🎯 Usage
-
-Run the Chatbot
-
-python app.py
-
-The chatbot will launch in your browser.
-
-Ask event planning-related queries, and get AI-powered responses!
-
-Example Query
-
-User: "I need ideas for a corporate gala dinner in New York."
-
-AI: "For a high-end corporate gala, consider venues like XYZ Hotel or ABC Conference Center. Catering options include..."
-
-📊 Visualization (Optional)
-
-To visualize event data using t-SNE and Plotly:
-
-python visualize.py
-
 🔮 Future Enhancements
 
 ✅ Integration with Google Calendar for scheduling.
