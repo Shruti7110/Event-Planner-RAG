@@ -1,19 +1,19 @@
 # 🎉 Event Planner RAG Model
 
-📌 _**Overview:**_
+📌 _**Overview:**_</br>
     The Event Planner RAG (Retrieval-Augmented Generation) Model is an AI-powered chatbot designed to assist with event planning. It integrates LangChain, OpenAI GPT, and ChromaDB to provide intelligent event planning        recommendations based on user queries. Whether you're organizing a wedding, corporate event, or a birthday party, this model helps streamline planning by retrieving relevant information and generating insights. Use       the training model to further upgrade your model to understand your data better.
 ***
-🔹 _**Usage:**_
-    Event_Planner_RAG.ipynb file has the main code of deploying the model
-    Training_data.ipynb file has the further training your data for spefic type of questions. feel free to edit the question according to your use case 
-    database folder has subfolder for respective data. (Note: Save the folder in the save location as notebook or update the file path otherwise)
+🔹 _**Usage:**_</br>
+    **Event_Planner_RAG.ipynb** file has the main code of deploying the model.</br>
+    **Training_data.ipynb** file has the further training your data for spefic type of questions. feel free to edit the question according to your use case. </br>
+    **database** folder has subfolder for respective data. (Note: Unzip the file and Save the folder in the save location as notebook or update the file path otherwise).</br>
 ***
-🚀 _**Features:**_
-        Event Planning Assistance – Get AI-driven suggestions for venue selection, catering, and more.
-        RAG-Based Search – Combines retrieval and generation for accurate responses.
-        Memory-Powered Conversations – Maintains context using LangChain's memory components.
-        Interactive Visualization – Uses t-SNE and Plotly to visualize event data.
-        Continuous Learning – Update and fine-tune the knowledge base dynamically.
+🚀 _**Features:**_</br>
+        Event Planning Assistance – Get AI-driven suggestions for venue selection, catering, and more.</br>
+        RAG-Based Search – Combines retrieval and generation for accurate responses.</br>
+        Memory-Powered Conversations – Maintains context using LangChain's memory components.</br>
+        Interactive Visualization – Uses t-SNE and Plotly to visualize event data.</br>
+        Continuous Learning – Update and fine-tune the knowledge base dynamically.</br>
 ***
 🛠 _**Installation**_
 
